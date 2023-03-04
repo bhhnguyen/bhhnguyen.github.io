@@ -4,39 +4,22 @@ title: Huntinality
 description: Cardinality's first online hunt
 img: assets/img/huntinality1_title.png
 importance: 1
-category: puzzles
+category: Puzzles
 ---
 
-The first hunt I ever wrote for, <a href="https://2021.huntinality.com/">Huntinality</a>, was one that I wrote with about 10 of my MIT Mystery Hunt teammates on Cardinality.
-I was the creative director and lead puzzle editor for this hunt, which consisted of around 20 puzzles. Nearly 500 teams participated in this hunt, which was exciting for
-what was our first writing effort. I've highlighted some of the puzzles I wrote below.
+The first hunt I ever wrote for, <a href="https://2021.huntinality.com/">Huntinality</a>, was one that I wrote with about 10 of my MIT Mystery Hunt teammates on Cardinality. I was the creative director and lead puzzle editor for this hunt, which consisted of around 20 puzzles. Nearly 500 teams participated in this hunt, which was exciting for what was our first writing effort. I've highlighted some of the puzzles I wrote below.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/datingsim1.png" title="dating sim" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/datingsim1.png" title="dating sim" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/datingsim1.png" title="dating sim" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/datingsim2.png" title="dating sim" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    These are screenshots from <a href="https://2021.huntinality.com/puzzle/thedatingsim.html">Dating Sim</a>, a puzzle embedded in a brief dating sim visual novel developed in RenPy. This puzzle was about determining how to satsify constraints about each of the dating show's contestants and making deductions about said constraints to get to an answer.
+    These are screenshots from <a href="https://2021.huntinality.com/puzzle/thedatingsim.html">Dating Sim</a>, a puzzle embedded in a brief dating sim visual novel developed in RenPy. This puzzle was about determining how to satsify constraints about each of the dating show's contestants and making deductions about said constraints to get to an answer. (You might need to download the executables to play since the site is archived at this point.)
 </div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
 
 
 <div class="row justify-content-sm-center">

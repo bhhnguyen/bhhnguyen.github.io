@@ -5,7 +5,7 @@ permalink: /projects/
 description: Some of puzzle-adjacent projects.
 nav: true
 nav_order: 2
-display_categories: [work, online-hunt, misc]
+display_categories: [Puzzles, Misc.]
 horizontal: false
 ---
 
