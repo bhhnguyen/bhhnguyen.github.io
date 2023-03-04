@@ -7,7 +7,7 @@ importance: 2
 category: Puzzles
 ---
 
-This was the second hunt I wrote with the Cardinality team, which ran in 2022. I was creative director and head puzzle editor for this event as well. This is probably the most ambitious project I've worked on -- there were about 35 puzzles and was much more difficult than the first event in terms of difficulty and scope. The story of this hunt revolved around a mysterious app that "breaks the internet" and reverts the entire web to a Web 1.0 aesthetic. Over 600 teams participated in this event.
+<a href="https://2022.huntinality.com">Huntinality 2.0</a> was the second hunt I created with the Cardinality team, which ran in 2022. I was creative director and head puzzle editor for this event as well. This is probably the most ambitious project I've worked on -- there were about 35 puzzles and was much more difficult than the first event in terms of difficulty and scope. The story of this hunt revolved around a mysterious app that "breaks the internet" and reverts the entire web to a Web 1.0 aesthetic. Over 600 teams participated in this event.
 
 As with our first project, I led the design of the overall hunt structure and had editorial oversight over every puzzle in the hunt. I highlighted some of the puzzles I was the primary author on below, and a comprehensive list of puzzles and links can be found at the bottom.
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Professional Work
-description: Puzzles I've written as part of professional commissions and team-building events
+description: Professional puzzle commissions
 img: assets/img/secret_sauce_title.png
 importance: 3
 category: Puzzles
@@ -14,7 +14,7 @@ Since 2022, I've written puzzles professionally in collaboration with a friend o
         {% include figure.html path="assets/img/secret_sauce_title.png" title="secret sauce" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/secret_sauce_croutons.png" title="croutons puzzle" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/secret_sauce_crouton.png" title="croutons puzzle" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/secret_sauce_broccoli.png" title="broccoli puzzle" class="img-fluid rounded z-depth-1" %}
@@ -38,3 +38,5 @@ Since 2022, I've written puzzles professionally in collaboration with a friend o
 <div class="caption">
     These are snippets of puzzles and assets (including some physical ones) from various puzzle commissions we've worked on. These are from a game that was commissioned by a team from PricewaterhouseCoopers that 160 of their employees participated in.
 </div>
+
+More to come!
