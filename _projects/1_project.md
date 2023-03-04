@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Huntinality
-description: First Cardinality online hunt
+description: First online Cardinality hunt
 img: assets/img/huntinality1_title.png
 importance: 1
 category: online-hunt
