@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Projects
-permalink: /projects/
+permalink: /
 description: Some of my puzzle-adjacent projects!
 nav: true
-nav_order: 2
+nav_order: 1
 display_categories: [Puzzles, Misc.]
 horizontal: false
 ---
