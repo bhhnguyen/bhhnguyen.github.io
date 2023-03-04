@@ -1,38 +1,29 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Huntinality
+description: First Cardinality online hunt
+img: assets/img/huntinality1_title.png
 importance: 1
-category: work
+category: online-hunt
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+The first hunt I ever wrote for, <a href="https://2021.huntinality.com/">Huntinality</a>, was one that I wrote with about 10 of my MIT Mystery Hunt teammates on Cardinality.
+I was the creative director and lead puzzle editor for this hunt, which consisted of around 20 puzzles. Nearly 500 teams participated in this hunt, which was exciting for
+what was our first writing effort. I've highlighted some of the puzzles I wrote below.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/datingsim1.jpg" title="dating sim" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/datingsim1.jpg" title="dating sim" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/datingsim1.jpg" title="dating sim" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    These are screenshots from <a href="https://2021.huntinality.com/puzzle/thedatingsim.html">Dating Sim</a>, a puzzle embedded in a brief dating sim visual novel developed in RenPy. This puzzle was about determining how to satsify constraints about each of the dating show's contestants and making deductions about said constraints to get to an answer.
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

@@ -1,38 +1,33 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: assets/img/3.jpg
+title: Huntinality 2.0
+description: Second online Cardinality hunt
+img: assets/img/huntinality2_title.png
 importance: 2
-category: work
+category: online-hunt
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+This was the second hunt I wrote with the Cardinality team, which ran in 2022. I was creative director and head puzzle editor for
+this event as well. This proved to be more ambitious than our last hunt -- there were about 35 puzzles and was a bit closer to the
+Galactic Puzzle Hunt and Teammate Hunt in terms of difficulty and scope (though easier than either). I led the design of the overall
+hunt structure and had editorial oversight over every puzzle in the hunt. I highlighted some of the puzzles I was the primary author
+on below. Over 600 teams participated in this event.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/myoph1.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/myoph2.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/myoph3.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    This is from <a href=https://2022.huntinality.com/puzzles/make_your_own_puzzlehunt>Make Your Own Puzzlehunt</a>, a puzzle where you generate a
+    hypothetical puzzlehunt from a specified form and try to satisfy a fictional community. You then make deductions about what the community
+    likes and how you can use the "Puzzlehunt Bingo" grid to progress in the puzzle.
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
