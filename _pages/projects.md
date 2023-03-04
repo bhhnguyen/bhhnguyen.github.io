@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
-description: Some of puzzle-adjacent projects.
+description: Some of my puzzle-adjacent projects!
 nav: true
 nav_order: 2
 display_categories: [Puzzles, Misc.]

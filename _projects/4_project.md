@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: Die Again Tomorrow
+description: Upcoming puzzle visual novel
 img:
-importance: 3
-category: fun
+importance: 4
+category: Misc.
 ---
 
 Every project has a beautiful feature showcase page.
