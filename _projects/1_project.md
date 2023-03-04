@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Huntinality
-description: First online Cardinality hunt
+description: Cardinality's first online hunt
 img: assets/img/huntinality1_title.png
 importance: 1
-category: online-hunt
+category: puzzles
 ---
 
 The first hunt I ever wrote for, <a href="https://2021.huntinality.com/">Huntinality</a>, was one that I wrote with about 10 of my MIT Mystery Hunt teammates on Cardinality.
