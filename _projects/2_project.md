@@ -12,20 +12,17 @@ This was the second hunt I wrote with the Cardinality team, which ran in 2022. I
 As with our first project, I led the design of the overall hunt structure and had editorial oversight over every puzzle in the hunt. I highlighted some of the puzzles I was the primary author on below, and a comprehensive list of puzzles and links can be found at the bottom.
 
 <div class="row">
-    <div class="col-sm mt-8 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/neopets1.png" title="make your own puzzlehunt" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-8 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/neopets2.png" title="make your own puzzlehunt" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-8 mt-md-0">
-        {% include figure.html path="assets/img/neopets3.png" title="make your own puzzlehunt" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
     This is from <a href="https://2022.huntinality.com/puzzles/chaos_in_neopia">Chaos in Neopia</a>, a puzzle where you are given a list
     of feeder answers and must match these answers to the appropriate "metapuzzle" they belong to. Pictured here are metas designed specifically
-    for this puzzle that respectively involve a diagramless crossword, an Akari puzzle, and a cryptic set of Google Earth images.
+    for this puzzle that respectively involve a diagramless crossword and an Akari puzzle respectively.
 </div>
 
 <div class="row">
@@ -34,9 +31,6 @@ As with our first project, I led the design of the overall hunt structure and ha
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/myoph2.png" title="make your own puzzlehunt" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/myoph3.png" title="make your own puzzlehunt" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -51,9 +45,6 @@ As with our first project, I led the design of the overall hunt structure and ha
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/metameta2.png" title="metameta" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/metameta3.png" title="metameta" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

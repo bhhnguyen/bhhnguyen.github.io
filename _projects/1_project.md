@@ -18,7 +18,7 @@ The first hunt I ever wrote for, <a href="https://2021.huntinality.com/">Huntina
     </div>
 </div>
 <div class="caption">
-    These are screenshots from <a href="https://2021.huntinality.com/puzzle/thedatingsim.html">Dating Sim</a>, a puzzle embedded in a brief dating sim visual novel developed in RenPy. This puzzle was about determining how to satsify constraints about each of the dating show's contestants and making deductions about said constraints to get to an answer. (You might need to download the executables to play since the site is archived at this point.)
+    These are screenshots from <a href="https://2021.huntinality.com/puzzle/thedatingsim.html">Dating Sim</a>, a puzzle embedded in a brief dating sim visual novel developed in RenPy. This puzzle was about determining how to satsify constraints about each of the dating show's contestants and making deductions about said constraints to get to an answer. (You might need to download the executables to play since the site is archived.)
 </div>
 
 
