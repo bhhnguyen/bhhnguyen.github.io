@@ -1,8 +1,10 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: Puzzle Designer, Game Developer
+subtitle: Puzzle Designer
+nav: true
+nav_order: 2
 
 #profile:
 #  align: right
@@ -20,6 +22,6 @@ social: true  # includes social icons at the bottom of the page
 
 I write puzzles! Among other things. I intend for this page to document my puzzle-adjacent projects.
 
-I've designed puzzle events both professionally and freeware. I typically write puzzles in the vein of the MIT Mystery Hunt tradition, which includes a wide variety of genres, including crosswords, cryptic crosswords, traditional pen-and-paper logic, and interactive games. I've created commissions for tech and finance companies, and I led writing on an annual puzzlehunt called Huntinality for the past two years. See my Projects page for more details.
+I've designed puzzle events professionally and for free online puzzlehunts. I typically write puzzles in the vein of the MIT Mystery Hunt tradition, which includes a wide variety of genres, including crosswords, cryptic crosswords, traditional pen-and-paper logic, and interactive games. I've created commissions for tech and finance companies, and I led writing on an annual puzzlehunt called Huntinality for the past two years. See my Projects page for more details.
 
-I used to be a software engineer and later data architect by trade. Nowadays, I write puzzles both professionally and for fun I'm also developing a freeware puzzle visual novel game I'm hoping to release by the end of 2023. My other primary hobbies include trivia and reading (mostly long fiction).
+Outside of puzzles, I used to work as a software engineer and data architect. My other hobbies include trivia, reading (mostly long fiction), and game development.
