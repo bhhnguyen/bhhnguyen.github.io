@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Some of puzzle-adjacent projects.
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [work, online-hunt, misc]
 horizontal: false
 ---
 
