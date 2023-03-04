@@ -46,6 +46,9 @@ As with our first project, I led the design of the overall hunt structure and ha
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/metameta2.png" title="metameta" class="img-fluid rounded z-depth-1" %}
     </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/metameta3.png" title="metameta" class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
 <div class="caption">
     This is from the hunt's <a href="https://2022.huntinality.com/puzzles/dude_wheres_my_answer_checker">final meta</a>, where solvers are tasked
@@ -53,7 +56,7 @@ As with our first project, I led the design of the overall hunt structure and ha
 </div>
 
 
-Though I had editorial oversight over every puzzle in the hunt, here is a comprehensive list of the puzzles I authored for this event:
+Though I had editorial oversight over every puzzle in the hunt, here is a comprehensive list of the puzzles I authored for this event. Each page has a solution that walks through how the puzzle works.
 
 <ul>
     <li><a href="https://2022.huntinality.com/puzzles/chaos_in_neopia">Chaos in Neopia</a>, a meta-matching minipuzzle</li>

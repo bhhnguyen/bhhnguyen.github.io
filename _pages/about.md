@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Puzzle Designer</a>, Game Developer
+subtitle: Puzzle Designer, Game Developer
 
 #profile:
 #  align: right
