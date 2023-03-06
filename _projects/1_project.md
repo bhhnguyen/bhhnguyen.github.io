@@ -9,7 +9,7 @@ category: Puzzles
 
 The first hunt I ever wrote for, <a href="https://2021.huntinality.com/">Huntinality</a>, was written with about 10 of my MIT Mystery Hunt teammates on Cardinality. I was the creative director and lead puzzle editor for this hunt, which consisted of around 20 puzzles. Nearly 500 teams participated in this hunt, which was exciting for what was our first writing effort. I've highlighted some of the puzzles I wrote below.
 
-<div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+<div id="wsbCarousel" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
       <img class="d-block w-100" src="/assets/img/wsb1.png" alt="First slide">
@@ -18,11 +18,11 @@ The first hunt I ever wrote for, <a href="https://2021.huntinality.com/">Huntina
       <img class="d-block w-100" src="/assets/img/wsb2.png" alt="Second slide">
     </div>
   </div>
-  <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+  <a class="carousel-control-prev" href="#wsbCarousel" role="button" data-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
   </a>
-  <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+  <a class="carousel-control-next" href="#wsbCarousel" role="button" data-slide="next">
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>
@@ -31,7 +31,7 @@ The first hunt I ever wrote for, <a href="https://2021.huntinality.com/">Huntina
     These are screenshots from <a href="https://2021.huntinality.com/puzzle/wah_street_bets.html">Wah Street Bets</a>, the hunt's grand finale puzzle. For this puzzle, we developed an entire incremental (Cookie Clicker-style) game with an entire round of puzzles embedded within it.
 </div>
 
-<div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+<div id="datingsimCarousel" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
       <img class="d-block w-100" src="/assets/img/datingsim1.png" alt="First slide">
@@ -40,11 +40,11 @@ The first hunt I ever wrote for, <a href="https://2021.huntinality.com/">Huntina
       <img class="d-block w-100" src="/assets/img/datingsim2.png" alt="Second slide">
     </div>
   </div>
-  <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+  <a class="carousel-control-prev" href="#datingsimCarousel" role="button" data-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
   </a>
-  <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+  <a class="carousel-control-next" href="#datingsimCarousel" role="button" data-slide="next">
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>
@@ -53,7 +53,7 @@ The first hunt I ever wrote for, <a href="https://2021.huntinality.com/">Huntina
     These are screenshots from <a href="https://2021.huntinality.com/puzzle/thedatingsim.html">Dating Sim</a>, a puzzle embedded in a brief dating sim visual novel developed in RenPy.
 </div>
 
-<div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+<div id="loloCarousel" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
       <img class="d-block w-100" src="/assets/img/lolo1.png" alt="First slide">
@@ -62,11 +62,11 @@ The first hunt I ever wrote for, <a href="https://2021.huntinality.com/">Huntina
       <img class="d-block w-100" src="/assets/img/lolo2.png" alt="Second slide">
     </div>
   </div>
-  <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+  <a class="carousel-control-prev" href="#loloCarousel" role="button" data-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
   </a>
-  <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+  <a class="carousel-control-next" href="#loloCarousel" role="button" data-slide="next">
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>
