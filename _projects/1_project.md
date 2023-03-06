@@ -20,7 +20,7 @@ The first hunt I ever wrote for, <a href="https://2021.huntinality.com/">Huntina
     </div>
 </div>
 <div class="caption">
-    These are screenshots from <a href="https://2021.huntinality.com/puzzle/wah_street_bets.html">Wah Street Bets</a>, which was the final and probably most memorable puzzle from our event. For our finale puzzle, I helped develop an incremental (Cookie Clicker-style) game built around accumulating coins. However, there were 8 mini-puzzles embedded in various mechanics within the game, including a series of cryptic clues that marqueed across the screen intermittently, a series of nonograms that gave the players various speed boosts, and a word puzzle embedded in the names of upgrades and achievements.
+    These are screenshots from <a href="https://2021.huntinality.com/puzzle/wah_street_bets.html">Wah Street Bets</a>, the hunt's grand finale puzzle. For this puzzle, we developed an entire incremental (Cookie Clicker-style) game with an entire round of puzzles embedded within it.
 </div>
 
 <div class="row">
@@ -34,7 +34,7 @@ The first hunt I ever wrote for, <a href="https://2021.huntinality.com/">Huntina
     </div>
 </div>
 <div class="caption">
-    These are screenshots from <a href="https://2021.huntinality.com/puzzle/thedatingsim.html">Dating Sim</a>, a puzzle embedded in a brief dating sim visual novel developed in RenPy. This puzzle was about determining how to satsify constraints about each of the dating show's contestants and making deductions about said constraints to get to an answer. (You might need to download the executables to play since the site is archived.)
+    These are screenshots from <a href="https://2021.huntinality.com/puzzle/thedatingsim.html">Dating Sim</a>, a puzzle embedded in a brief dating sim visual novel developed in RenPy.
 </div>
 
 <div class="row">
@@ -48,7 +48,7 @@ The first hunt I ever wrote for, <a href="https://2021.huntinality.com/">Huntina
     </div>
 </div>
 <div class="caption">
-    This is from <a href="https://2021.huntinality.com/puzzle/lolo.html">Lolo</a>, a puzzle consisting of four different minipuzzles. The twist here is that there are components of each minipuzzle that depends on one of the other three minipuzzles. Figuring out how each puzzle relates to the others is key to solving and extracting the final answer of this puzzle.
+    This is from <a href="https://2021.huntinality.com/puzzle/lolo.html">Lolo</a>, a puzzle consisting of four different minipuzzles that each had a hidden dependency on other minipuzzles.
 </div>
 
 Though I had editorial oversight over every puzzle in the hunt, here is a comprehensive list of the puzzles I authored for this event. Each page has a solution that walks through how the puzzle works.

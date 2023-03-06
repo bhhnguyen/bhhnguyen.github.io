@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /
-description: Some of my puzzle-adjacent projects!
+description: I'm Benji Nguyen, and I'm an avid puzzle enthusiast with over ten years of experience solving and designing puzzles.
 nav: true
 nav_order: 1
 display_categories: [Puzzles, Misc.]
