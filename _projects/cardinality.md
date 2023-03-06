@@ -7,9 +7,9 @@ importance: 4
 category: Misc.
 ---
 
-MIT Mystery Hunt is the largest puzzlehunt of the year. It takes place every year on MIT campus over MLK weekend and typically features around 150-200 very difficult puzzles. Usually, in order to have any hope of finishing the event, you need a team of at least 50 people (some have as many as around 200). The grand prize for completing the hunt first is the responsibility of having to write and organize the next year's iteration of the event.
+<b>MIT Mystery Hunt</b> is the largest puzzlehunt of the year. It takes place every year on MIT campus over MLK weekend and typically features around 150-200 very difficult puzzles. Usually, in order to have any hope of finishing the event, you need a team of at least 50 people (some have as many as around 200). The grand prize for completing the hunt first is the responsibility of having to write and organize the next year's iteration of the event. I solve the hunt with <b>Cardinality</b>, a team I founded back when I was in college in 2011.
 
-The team I solve with, Cardinality, grew out of a group of about 10 of my college friends back when we were at Stanford University. We had always dreamed of starting our own team and completing the MIT Mystery Hunt. In 2020, we managed to wrangle a group of about 30 friends and competed as a separate team for the first time. Since then, we've steadily accumulated more friends and colleagues to assemble a bona fide commnunity of enthusiasts who all love to solve puzzles! Even outside of MIT Mystery Hunt, we spend a lot of time throughout the year solving, discussing, and even writing puzzles (e.g. the Huntinality events I describe on other parts of this site).
+Cardinality grew out of a group of about 10 of my college friends back when we were at Stanford University. We had always dreamed of starting our own team and completing the MIT Mystery Hunt. In 2020, we managed to wrangle a group of about 30 friends and competed as a separate team at MIT for the first time. Since then, we've steadily accumulated more friends and colleagues to assemble a bona fide commnunity of enthusiasts who all love to solve puzzles! Even outside of MIT Mystery Hunt, we spend a lot of time throughout the year solving, discussing, and even writing puzzles (e.g. the Huntinality events I describe on other parts of this site).
 
 
 <div class="row">

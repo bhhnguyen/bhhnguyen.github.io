@@ -59,5 +59,5 @@ Since 2022, I've written puzzles professionally in collaboration with a friend o
   </a>
 </div>
 <div class="caption">
-  These are snippets of puzzles and assets (including some physical ones) from various puzzle commissions we've worked on. These images in particular are from a game commissioned by PricewaterhouseCoopers that 160 of their employees participated in.
+  These are snippets of puzzles and assets (including some physical ones) from various puzzle commissions we've worked on. These images in particular are from a game commissioned by <b>PricewaterhouseCoopers</b> that <b>160</b> of their employees participated in.
 </div>

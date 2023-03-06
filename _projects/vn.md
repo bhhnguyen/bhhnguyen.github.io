@@ -7,7 +7,7 @@ importance: 5
 category: Misc.
 ---
 
-I intend on releasing a hybrid visual novel/puzzle game called Die Again Tomorrow for free in 2023. It's mostly written in the Python engine RenPy. I won't say too much about the game at this time, but here are some teaser screenshots.
+I intend on releasing a hybrid visual novel/puzzle game called <b>Die Again Tomorrow</b> for free in 2023. It's mostly written in the Python engine <b>RenPy</b>. I won't say too much about the game at this time, but here are some teaser screenshots.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
