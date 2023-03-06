@@ -11,7 +11,7 @@ category: Puzzles
 
 As with our first project, I led the design of the overall hunt structure and had editorial oversight over every puzzle in the hunt. I highlighted some of the puzzles I was the primary author on below, and a comprehensive list of puzzles and links can be found at the bottom.
 
-<div id="neopiaCarousel" class="carousel slide" style="width:100%; height: 450px !important;">
+<div id="neopiaCarousel" class="carousel slide" style="width:100%; height: 400px !important;">
   <div class="carousel-inner">
     <div class="carousel-item active">
       <img class="d-block w-100" src="/assets/img/neopets1.png">
@@ -36,7 +36,7 @@ As with our first project, I led the design of the overall hunt structure and ha
     This is from <a href="https://2022.huntinality.com/puzzles/chaos_in_neopia">Chaos in Neopia</a>, a metamatching puzzle where you're given a bank of answers and must match them to the appropriate metapuzzle.
 </div>
 
-<div id="myophCarousel" class="carousel slide" style="width:100%; height: 710px !important;">
+<div id="myophCarousel" class="carousel slide" style="width:100%; height: 660px !important;">
   <div class="carousel-inner">
     <div class="carousel-item active">
       <img class="d-block w-100" src="/assets/img/myoph1.png">
@@ -58,7 +58,7 @@ As with our first project, I led the design of the overall hunt structure and ha
     This is from <a href="https://2022.huntinality.com/puzzles/make_your_own_puzzlehunt">Make Your Own Puzzlehunt</a>, a puzzle where you "make a puzzlehunt" and try to satisfy an angry community of fictional puzzlers.
 </div>
 
-<div id="metametaCarousel" class="carousel slide" style="width:100%; height: 350px !important;">
+<div id="metametaCarousel" class="carousel slide" style="width:100%; height: 300px !important;">
   <div class="carousel-inner">
     <div class="carousel-item active">
       <img class="d-block w-100" src="/assets/img/metameta1.png">
