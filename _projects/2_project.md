@@ -11,48 +11,73 @@ category: Puzzles
 
 As with our first project, I led the design of the overall hunt structure and had editorial oversight over every puzzle in the hunt. I highlighted some of the puzzles I was the primary author on below, and a comprehensive list of puzzles and links can be found at the bottom.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/neopets1.png" title="chaos in neopia" class="img-fluid rounded z-depth-1" %}
+<div id="neopiaCarousel" class="carousel slide">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img class="d-block w-100" src="/assets/img/neopets1.png">
     </div>
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/neopets2.png" title="chaos in neopia" class="img-fluid rounded z-depth-1" %}
+    <div class="carousel-item">
+      <img class="d-block w-100" src="/assets/img/neopets2.png">
     </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="/assets/img/neopets3.png">
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#neopiaCarousel" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#neopiaCarousel" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
 </div>
 <div class="caption">
     This is from <a href="https://2022.huntinality.com/puzzles/chaos_in_neopia">Chaos in Neopia</a>, a metamatching puzzle where you're given a bank of answers and must match them to the appropriate metapuzzle.
 </div>
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/myoph1.png" title="make your own puzzlehunt" class="img-fluid rounded z-depth-1" %}
+<div id="myophCarousel" class="carousel slide">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img class="d-block w-100" src="/assets/img/myoph1.png">
     </div>
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/myoph2.png" title="make your own puzzlehunt" class="img-fluid rounded z-depth-1" %}
+    <div class="carousel-item">
+      <img class="d-block w-100" src="/assets/img/myoph2.png">
     </div>
+  </div>
+  <a class="carousel-control-prev" href="#myophCarousel" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#myophCarousel" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
 </div>
 <div class="caption">
     This is from <a href="https://2022.huntinality.com/puzzles/make_your_own_puzzlehunt">Make Your Own Puzzlehunt</a>, a puzzle where you "make a puzzlehunt" and try to satisfy an angry community of fictional puzzlers.
 </div>
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/metameta1.png" title="metameta" class="img-fluid rounded z-depth-1" %}
+<div id="metametaCarousel" class="carousel slide">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img class="d-block w-100" src="/assets/img/metameta1.png">
     </div>
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/metameta2.png" title="metameta" class="img-fluid rounded z-depth-1" %}
+    <div class="carousel-item">
+      <img class="d-block w-100" src="/assets/img/metameta2.png">
     </div>
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/metameta3.png" title="metameta" class="img-fluid rounded z-depth-1" %}
+    <div class="carousel-item">
+      <img class="d-block w-100" src="/assets/img/metameta3.png">
     </div>
+  </div>
+  <a class="carousel-control-prev" href="#metametaCarousel" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#metametaCarousel" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
 </div>
 <div class="caption">
     This is from the hunt's <a href="https://2022.huntinality.com/puzzles/dude_wheres_my_answer_checker">final meta</a>, where solvers are tasked with revisiting the old Web 1.0 personal pages of a company's C-suite and solving mini-puzzles of various types embedded on each page.
