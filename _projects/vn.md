@@ -2,7 +2,7 @@
 layout: page
 title: Die Again Tomorrow
 description: I'm working on an upcoming narrative-driven puzzle game called Die Again Tomorrow, which is planned for release in late 2023.
-img: deathsimtitle.png
+img: assets/img/deathsimtitle.png
 importance: 5
 category: Misc.
 ---
