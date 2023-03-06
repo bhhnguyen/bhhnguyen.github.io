@@ -9,7 +9,7 @@ category: Puzzles
 
 The first hunt I ever wrote for, <a href="https://2021.huntinality.com/">Huntinality</a>, was written with about 10 of my MIT Mystery Hunt teammates on Cardinality. I was the creative director and lead puzzle editor for this hunt, which consisted of around 20 puzzles. Nearly 500 teams participated in this hunt, which was exciting for what was our first writing effort. I've highlighted some of the puzzles I wrote below.
 
-<div id="wsbCarousel" class="carousel slide" style="width:100%; height: 800px !important;">
+<div id="wsbCarousel" class="carousel slide" style="width:100%; height: 670px !important;">
   <div class="carousel-inner">
     <div class="carousel-item active">
       <img class="d-block w-100" src="/assets/img/wsb1.png">
@@ -31,7 +31,7 @@ The first hunt I ever wrote for, <a href="https://2021.huntinality.com/">Huntina
     These are screenshots from <a href="https://2021.huntinality.com/puzzle/wah_street_bets.html">Wah Street Bets</a>, the hunt's grand finale puzzle. For this puzzle, we developed an entire incremental (Cookie Clicker-style) game with an entire round of puzzles embedded within it.
 </div>
 
-<div id="datingsimCarousel" class="carousel slide" style="width:100%; height: 800px !important;">
+<div id="datingsimCarousel" class="carousel slide" style="width:100%; height: 675px !important;">
   <div class="carousel-inner">
     <div class="carousel-item active">
       <img class="d-block w-100" src="/assets/img/datingsim1.png">
@@ -53,7 +53,7 @@ The first hunt I ever wrote for, <a href="https://2021.huntinality.com/">Huntina
     These are screenshots from <a href="https://2021.huntinality.com/puzzle/thedatingsim.html">Dating Sim</a>, a puzzle embedded in a brief dating sim visual novel developed in RenPy.
 </div>
 
-<div id="loloCarousel" class="carousel slide" style="width:100%; height: 800px !important;">
+<div id="loloCarousel" class="carousel slide" style="width:100%; height: 670px !important;">
   <div class="carousel-inner">
     <div class="carousel-item active">
       <img class="d-block w-100" src="/assets/img/lolo1.png">
