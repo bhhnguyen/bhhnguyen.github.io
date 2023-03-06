@@ -460,7 +460,10 @@ footer.sticky-bottom {
   }
 }
 
-
+.carousel { overflow: hidden; padding-bottom: 4rem; }
+.carousel-caption { top: 100%; }
+.carousel-inner { overflow: visible; }
+.carousel-control-next, .carousel-control-prev, .carousel-indicators { bottom: 4rem; }
 // Publications
 
 .publications {
