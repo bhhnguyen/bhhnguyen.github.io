@@ -29,9 +29,9 @@ Since 2022, I've written puzzles professionally in collaboration with a friend o
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>
-  <div class="caption">
-        This is from a food-themed team-building event we run called <a href="https://www.steinium.com/teambuilding">Secret Sauce</a>. Solvers must solve puzzles in order to get physical items representing food that will allow them to plate recipes that they present to judges. There are 30 puzzles ranging from logic to wordplay to interactive written for this event on top of a fun creative component!
-  </div>
+</div>
+<div class="caption">
+      This is from a food-themed team-building event we run called <a href="https://www.steinium.com/teambuilding">Secret Sauce</a>. Solvers must solve puzzles in order to get physical items representing food that will allow them to plate recipes that they present to judges. There are 30 puzzles ranging from logic to wordplay to interactive written for this event on top of a fun creative component!
 </div>
 
 <div id="caperCarousel" class="carousel slide" style="width:100%; height: 520px !important;">
@@ -54,7 +54,7 @@ Since 2022, I've written puzzles professionally in collaboration with a friend o
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>
-  <div class="caption">
-    These are snippets of puzzles and assets (including some physical ones) from various puzzle commissions we've worked on. These are from a game that was commissioned by a team from PricewaterhouseCoopers that 160 of their employees participated in.
-  </div>
+</div>
+<div class="caption">
+  These are snippets of puzzles and assets (including some physical ones) from various puzzle commissions we've worked on. These are from a game that was commissioned by a team from PricewaterhouseCoopers that 160 of their employees participated in.
 </div>
