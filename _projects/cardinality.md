@@ -30,7 +30,7 @@ The team I solve with, Cardinality, grew out of a group of about 10 of my colleg
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/web2.0.png" title="huntinality 2.0" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/web2.png" title="huntinality 2.0" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
