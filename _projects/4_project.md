@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Cardinality
-description: I helped start an MIT Mystery Hunt team and puzzling community called Cardinality. It was originally a small 10-person team of Stanford students. It's now a community of more than 80 passionate puzzle solvers from all around the country (and including some folks in Taiwan).
+description: I helped start an MIT Mystery Hunt team and puzzling community called Cardinality. It was originally a small 10-person team of Stanford students. It's now a community of more than 80 passionate puzzle solvers from all around the country.
 img:
 importance: 4
 category: Misc.
