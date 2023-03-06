@@ -2,7 +2,7 @@
 layout: page
 title: Solving
 description: When I'm not solving puzzles, I'm often doing them! Here's a bit about some of the puzzling I've done.
-img:
+img: assets/img/puzzlepiece.png
 importance: 6
 category: Misc.
 ---
