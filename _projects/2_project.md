@@ -9,81 +9,53 @@ category: Puzzles
 
 <a href="https://2022.huntinality.com">Huntinality 2.0</a> was the second hunt I created with the Cardinality team, which ran in 2022. I was creative director and head puzzle editor for this event as well. This is probably the most ambitious project I've worked on -- there were about 35 puzzles and was much more difficult than the first event in terms of difficulty and scope. The story of this hunt revolved around a mysterious app that "breaks the internet" and reverts the entire web to a Web 1.0 aesthetic. Over 600 teams participated in this event.
 
-As with our first project, I led the design of the overall hunt structure and had editorial oversight over every puzzle in the hunt. I highlighted some of the puzzles I was the primary author on below, and a comprehensive list of puzzles and links can be found at the bottom.
+As with our first project, I led the design of the overall hunt structure and had editorial oversight over every puzzle in the hunt. I highlighted some puzzles from the hunt below, and a comprehensive list of puzzles I wrote and their links can be found at the bottom.
 
-<div id="neopiaCarousel" class="carousel slide" style="width:100%; height: 450px !important;">
+
+<div id="huntCarousel" class="carousel slide" style="width:100%; height: 1000px !important;">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-100" src="/assets/img/neopets1.png">
+      <img class="d-block w-100" src="/assets/img/mapquests.png">
+      <div class="carousel-caption d-none d-md-block">
+        <p>A piece of Map Quests, a puzzle about mapping your way through various lands, both real and fictional.</p>
+      </div>
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="/assets/img/neopets2.png">
+      <img class="d-block w-100" src="/assets/img/neopia.png">
+      <div class="carousel-caption d-none d-md-block">
+        <p>One of the minipuzzles from Chaos in Neopia, a puzzle about matching hypothetical metapuzzles to their correct answers.</p>
+      </div>
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="/assets/img/neopets3.png">
+      <img class="d-block w-100" src="/assets/img/replicate.png">
+      <div class="carousel-caption d-none d-md-block">
+        <p>The skyscraper variant from I Replicate.</p>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="/assets/img/metameta.png">
+      <div class="carousel-caption d-none d-md-block">
+        <p>A short puzzscript game from the final gauntlet of the hunt.</p>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="/assets/img/colorfulboxes.png">
+      <div class="carousel-caption d-none d-md-block">
+        <p>A screenshot from Colorful Boxes, a mathematical black box puzzle.</p>
+      </div>
     </div>
   </div>
-  <a class="carousel-control-prev" href="#neopiaCarousel" role="button" data-slide="prev">
+  <a class="carousel-control-prev" href="#huntCarousel" role="button" data-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
   </a>
-  <a class="carousel-control-next" href="#neopiaCarousel" role="button" data-slide="next">
+  <a class="carousel-control-next" href="#huntCarousel" role="button" data-slide="next">
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>
 </div>
-<div class="caption">
-    This is from <a href="https://2022.huntinality.com/puzzles/chaos_in_neopia">Chaos in Neopia</a>, a metamatching puzzle where you're given a bank of answers and must match them to the appropriate metapuzzle.
-</div>
 
-<div id="myophCarousel" class="carousel slide" style="width:100%; height: 710px !important;">
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img class="d-block w-100" src="/assets/img/myoph1.png">
-    </div>
-    <div class="carousel-item">
-      <img class="d-block w-100" src="/assets/img/myoph2.png">
-    </div>
-  </div>
-  <a class="carousel-control-prev" href="#myophCarousel" role="button" data-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="carousel-control-next" href="#myophCarousel" role="button" data-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
-</div>
-<div class="caption">
-    This is from <a href="https://2022.huntinality.com/puzzles/make_your_own_puzzlehunt">Make Your Own Puzzlehunt</a>, a puzzle where you "make a puzzlehunt" and try to satisfy an angry community of fictional puzzlers.
-</div>
-
-<div id="metametaCarousel" class="carousel slide" style="width:100%; height: 650px !important;">
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img class="d-block w-100" src="/assets/img/metameta1.png">
-    </div>
-    <div class="carousel-item">
-      <img class="d-block w-100" src="/assets/img/metameta2.png">
-    </div>
-    <div class="carousel-item">
-      <img class="d-block w-100" src="/assets/img/metameta3.png">
-    </div>
-  </div>
-  <a class="carousel-control-prev" href="#metametaCarousel" role="button" data-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="carousel-control-next" href="#metametaCarousel" role="button" data-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
-</div>
-<div class="caption">
-    This is from the hunt's <a href="https://2022.huntinality.com/puzzles/dude_wheres_my_answer_checker">final meta</a>, where solvers are tasked with revisiting the old Web 1.0 personal pages of a company's C-suite and solving mini-puzzles of various types embedded on each page.
-</div>
-
-
+<br>
 Though I had editorial oversight over every puzzle in the hunt, here is a comprehensive list of the puzzles for which I was primary author. Each page has a solution that walks through how the puzzle works.
 
 <ul>
