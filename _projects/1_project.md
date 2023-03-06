@@ -12,10 +12,10 @@ The first hunt I ever wrote for, <a href="https://2021.huntinality.com/">Huntina
 <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-100" src="assets/img/wsb1.png" alt="First slide">
+      <img class="d-block w-100" src="/assets/img/wsb1.png" alt="First slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="assets/img/wsb2.png" alt="Second slide">
+      <img class="d-block w-100" src="/assets/img/wsb2.png" alt="Second slide">
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
@@ -31,24 +31,13 @@ The first hunt I ever wrote for, <a href="https://2021.huntinality.com/">Huntina
     These are screenshots from <a href="https://2021.huntinality.com/puzzle/wah_street_bets.html">Wah Street Bets</a>, the hunt's grand finale puzzle. For this puzzle, we developed an entire incremental (Cookie Clicker-style) game with an entire round of puzzles embedded within it.
 </div>
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/datingsim1.png" title="dating sim" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/datingsim2.png" title="dating sim" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-
 <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-100" src="assets/img/datingsim1.png" alt="First slide">
+      <img class="d-block w-100" src="/assets/img/datingsim1.png" alt="First slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="assets/img/datingsim2.png" alt="Second slide">
+      <img class="d-block w-100" src="/assets/img/datingsim2.png" alt="Second slide">
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
@@ -67,10 +56,10 @@ The first hunt I ever wrote for, <a href="https://2021.huntinality.com/">Huntina
 <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-100" src="assets/img/lolo1.png" alt="First slide">
+      <img class="d-block w-100" src="/assets/img/lolo1.png" alt="First slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="assets/img/lolo2.png" alt="Second slide">
+      <img class="d-block w-100" src="/assets/img/lolo2.png" alt="Second slide">
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
