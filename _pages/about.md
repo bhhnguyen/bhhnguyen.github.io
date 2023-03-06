@@ -20,8 +20,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I write puzzles! Among other things. I intend for this page to document my puzzle-adjacent projects.
+I'm Benji! I'm currently living in Hoboken, NJ, and I used to be a data architect and software developer by trade. Now, I work part-time creating puzzles while working on developing a puzzle-based video game.
 
-I've designed puzzle events professionally and for free online puzzlehunts. I typically write puzzles in the vein of the MIT Mystery Hunt tradition, which includes a wide variety of genres, including crosswords, cryptic crosswords, traditional pen-and-paper logic, and interactive games. I've created commissions for tech and finance companies, and I led writing on an annual puzzlehunt called Huntinality for the past two years. See my Projects page for more details.
+Part of the reason I love puzzles so much is the endless creative possibilities. There are so many different kinds of challenges you can pose in a puzzle and many ways to present that kind of challenge. Because puzzles are designed to have hidden rules and hidden solve paths, you can never be truly prepared for every kind of puzzle, and I find that appealing. Additionally, part of the frustration with actually doing a job sometimes is that you can often never find a perfect solution to a given problem, and some of the problems you tackle aren't fun. Puzzles, on the other hands, have elegant solutions when written well, and they're challenges that are supposed to be fun.
 
-Outside of puzzles, I used to work as a software engineer and data architect. My other hobbies include trivia, reading (mostly long fiction), and game development.
+Outside of puzzles, my other hobbies include doing competitive trivia, developing video games, and reading long fiction. My favorite books I've read recently include Elena Ferrante's Neapolitan novels and Roberto Bolano's 2666.

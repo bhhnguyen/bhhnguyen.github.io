@@ -7,7 +7,9 @@ importance: 1
 category: Puzzles
 ---
 
-The first hunt I ever wrote for, <a href="https://2021.huntinality.com/">Huntinality</a>, was written with about 10 of my MIT Mystery Hunt teammates on Cardinality. I was the creative director and lead puzzle editor for this hunt, which consisted of around 20 puzzles. Nearly 500 teams participated in this hunt, which was exciting for what was our first writing effort. I've highlighted a few puzzles from the hunt below.
+The first hunt I ever wrote for, <a href="https://2021.huntinality.com/">Huntinality</a>, was written with about 10 of my MIT Mystery Hunt teammates on Cardinality. I was the <a href=#>creative director</a> and lead puzzle editor for this hunt, which consisted of around 20 puzzles. Nearly 500 teams participated in this hunt, which was exciting for what was our first writing effort. I've highlighted a few puzzles from the hunt below.
+
+As leader, I determined the hunt's story and structure. I also had editorial oversight over every puzzle.
 
 <div id="huntCarousel" class="carousel slide" style="width:100%; height: 760px !important;">
   <div class="carousel-inner">
