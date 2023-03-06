@@ -9,7 +9,7 @@ category: Puzzles
 
 Since 2022, I've written puzzles professionally in collaboration with a friend of mine named <a href="https://www.steinium.com/">Matthew Stein</a>, who started a professional design company called Enigmada. Here are some snippets from the projects we've collaborated on! This list is ever-growing.
 
-<div id="secretsauceCarousel" class="carousel slide" style="width:100%; height: 800px !important;">
+<div id="secretsauceCarousel" class="carousel slide" style="width:100%; height: 1100px !important;">
   <div class="carousel-inner">
     <div class="carousel-item active">
       <img class="d-block w-100" src="/assets/img/secret_sauce_crouton.png">

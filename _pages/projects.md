@@ -5,7 +5,7 @@ permalink: /
 description: I'm Benji Nguyen, and I'm an avid puzzle enthusiast with over ten years of experience solving and designing puzzles. Here are some of my projects.
 nav: true
 nav_order: 1
-display_categories: [Puzzles]
+display_categories: [Puzzles, Misc.]
 horizontal: false
 ---
 
