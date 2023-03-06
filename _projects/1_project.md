@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Huntinality
-description: Cardinality's first online hunt
+description: I was creative director and lead puzzle editor for Huntinality, an online puzzlehunt that ran in 2021 that nearly 500 teams participated in.
 img: assets/img/huntinality1_title.png
 importance: 1
 category: Puzzles
@@ -9,15 +9,23 @@ category: Puzzles
 
 The first hunt I ever wrote for, <a href="https://2021.huntinality.com/">Huntinality</a>, was written with about 10 of my MIT Mystery Hunt teammates on Cardinality. I was the creative director and lead puzzle editor for this hunt, which consisted of around 20 puzzles. Nearly 500 teams participated in this hunt, which was exciting for what was our first writing effort. I've highlighted some of the puzzles I wrote below.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/wsb1.png" title="wah street bets" class="img-fluid rounded z-depth-1" %}
+<div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img class="d-block w-100" src="assets/img/wsb1.png" alt="First slide">
     </div>
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/wsb2.png" title="wah street bets" class="img-fluid rounded z-depth-1" %}
+    <div class="carousel-item">
+      <img class="d-block w-100" src="assets/img/wsb2.png" alt="Second slide">
     </div>
+  </div>
+  <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
 </div>
 <div class="caption">
     These are screenshots from <a href="https://2021.huntinality.com/puzzle/wah_street_bets.html">Wah Street Bets</a>, the hunt's grand finale puzzle. For this puzzle, we developed an entire incremental (Cookie Clicker-style) game with an entire round of puzzles embedded within it.
@@ -33,19 +41,46 @@ The first hunt I ever wrote for, <a href="https://2021.huntinality.com/">Huntina
         {% include figure.html path="assets/img/datingsim2.png" title="dating sim" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
+<div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img class="d-block w-100" src="assets/img/datingsim1.png" alt="First slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="assets/img/datingsim2.png" alt="Second slide">
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
 <div class="caption">
     These are screenshots from <a href="https://2021.huntinality.com/puzzle/thedatingsim.html">Dating Sim</a>, a puzzle embedded in a brief dating sim visual novel developed in RenPy.
 </div>
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/lolo1.png" title="dating sim" class="img-fluid rounded z-depth-1" %}
+<div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img class="d-block w-100" src="assets/img/lolo1.png" alt="First slide">
     </div>
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/lolo2.png" title="dating sim" class="img-fluid rounded z-depth-1" %}
+    <div class="carousel-item">
+      <img class="d-block w-100" src="assets/img/lolo2.png" alt="Second slide">
     </div>
+  </div>
+  <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
 </div>
 <div class="caption">
     This is from <a href="https://2021.huntinality.com/puzzle/lolo.html">Lolo</a>, a puzzle consisting of four different minipuzzles that each had a hidden dependency on other minipuzzles.
