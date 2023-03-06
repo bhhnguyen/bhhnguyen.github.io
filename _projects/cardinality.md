@@ -14,7 +14,7 @@ The team I solve with, Cardinality, grew out of a group of about 10 of my colleg
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/cardinality2020.jpg" title="cardinality 2020" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/cardinality2020.png" title="cardinality 2020" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -22,7 +22,7 @@ The team I solve with, Cardinality, grew out of a group of about 10 of my colleg
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/bigbash.jpg" title="huntinality 1" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/bigbash.png" title="huntinality 1" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -30,7 +30,7 @@ The team I solve with, Cardinality, grew out of a group of about 10 of my colleg
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/web2.0.jpg" title="huntinality 2.0" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/web2.0.png" title="huntinality 2.0" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -38,7 +38,7 @@ The team I solve with, Cardinality, grew out of a group of about 10 of my colleg
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/cardboard.jpg" title="cardboard" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/cardboard.png" title="cardboard" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -46,7 +46,7 @@ The team I solve with, Cardinality, grew out of a group of about 10 of my colleg
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/cardinality2023.jpg" title="caradinality 2023" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/cardinality2023.png" title="caradinality 2023" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
