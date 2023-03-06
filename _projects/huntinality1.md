@@ -9,7 +9,7 @@ category: Puzzles
 
 The first hunt I ever wrote for, <a href="https://2021.huntinality.com/">Huntinality</a>, was written with about 10 of my MIT Mystery Hunt teammates on Cardinality. I was the creative director and lead puzzle editor for this hunt, which consisted of around 20 puzzles. Nearly 500 teams participated in this hunt, which was exciting for what was our first writing effort. I've highlighted a few puzzles from the hunt below.
 
-<div id="huntCarousel" class="carousel slide" style="width:100%; height: 800px !important;">
+<div id="huntCarousel" class="carousel slide" style="width:100%; height: 760px !important;">
   <div class="carousel-inner">
     <div class="carousel-item active">
       <img class="d-block w-100" src="/assets/img/wsb.png">
@@ -53,7 +53,7 @@ The first hunt I ever wrote for, <a href="https://2021.huntinality.com/">Huntina
 </div>
 
 <br>
-Though I had editorial oversight over every puzzle in the hunt, here is a comprehensive list of the puzzles for which I was primary author. Each page has a solution that walks through how the puzzle works.
+Here is a comprehensive list of the puzzles for which I was primary author. Each page has a solution tab that walks through how the puzzle works.
 
 <ul>
     <li><a href="https://2021.huntinality.com/puzzle/lolo.html">Lolo</a>, a four-part puzzle where each part has a hidden dependency on other parts</li>

@@ -9,10 +9,10 @@ category: Puzzles
 
 <a href="https://2022.huntinality.com">Huntinality 2.0</a> was the second hunt I created with the Cardinality team, which ran in 2022. I was creative director and head puzzle editor for this event as well. This is probably the most ambitious project I've worked on -- there were about 35 puzzles and was much more difficult than the first event in terms of difficulty and scope. The story of this hunt revolved around a mysterious app that "breaks the internet" and reverts the entire web to a Web 1.0 aesthetic. Over 600 teams participated in this event.
 
-As with our first project, I led the design of the overall hunt structure and had editorial oversight over every puzzle in the hunt. I highlighted some puzzles from the hunt below, and a comprehensive list of puzzles I wrote and their links can be found at the bottom.
+As with our first project, I led the design of the overarching hunt structure and edited every puzzle in the hunt. I highlighted some puzzles from the hunt below, and a comprehensive list of puzzles I wrote and their links can be found at the bottom.
 
 
-<div id="huntCarousel" class="carousel slide" style="width:100%; height: 1000px !important;">
+<div id="huntCarousel" class="carousel slide" style="width:100%; height: 770px !important;">
   <div class="carousel-inner">
     <div class="carousel-item active">
       <img class="d-block w-100" src="/assets/img/mapquests.png">
@@ -56,7 +56,7 @@ As with our first project, I led the design of the overall hunt structure and ha
 </div>
 
 <br>
-Though I had editorial oversight over every puzzle in the hunt, here is a comprehensive list of the puzzles for which I was primary author. Each page has a solution that walks through how the puzzle works.
+Here is a comprehensive list of the puzzles for which I was primary author. Each page has a solution tab that walks through how the puzzle works.
 
 <ul>
     <li><a href="https://2022.huntinality.com/puzzles/chaos_in_neopia">Chaos in Neopia</a>, a meta-matching minipuzzle</li>

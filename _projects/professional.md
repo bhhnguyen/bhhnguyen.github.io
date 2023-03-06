@@ -9,13 +9,16 @@ category: Puzzles
 
 Since 2022, I've written puzzles professionally in collaboration with a friend of mine named <a href="https://www.steinium.com/">Matthew Stein</a>, who started a professional design company called Enigmada. Here are some snippets from the projects we've collaborated on! This list is ever-growing.
 
-<div id="secretsauceCarousel" class="carousel slide" style="width:100%; height: 820px !important;">
+<div id="secretsauceCarousel" class="carousel slide" style="width:100%; height: 800px !important;">
   <div class="carousel-inner">
     <div class="carousel-item active">
       <img class="d-block w-100" src="/assets/img/secret_sauce_crouton.png">
     </div>
     <div class="carousel-item">
       <img class="d-block w-100" src="/assets/img/secret_sauce_broccoli.png">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="/assets/img/secret_sauce_carrot.png">
     </div>
     <div class="carousel-item">
       <img class="d-block w-100" src="/assets/img/secret_sauce_title.png">
@@ -34,16 +37,16 @@ Since 2022, I've written puzzles professionally in collaboration with a friend o
       This is from a food-themed team-building event we run called <a href="https://www.steinium.com/teambuilding">Secret Sauce</a>. Solvers must solve puzzles in order to get physical items representing food that will allow them to plate recipes that they present to judges. There are 30 puzzles ranging from logic to wordplay to interactive written for this event on top of a fun creative component!
 </div>
 
-<div id="caperCarousel" class="carousel slide" style="width:100%; height: 520px !important;">
+<div id="caperCarousel" class="carousel slide" style="width:100%; height: 750px !important;">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-100" src="/assets/img/caper0.png">
+      <img class="d-block w-100" src="/assets/img/physical_pieces.png">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="/assets/img/caper1.png">
+      <img class="d-block w-100" src="/assets/img/monster.png">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="/assets/img/caper2.png">
+      <img class="d-block w-100" src="/assets/img/hydra.png">
     </div>
   </div>
   <a class="carousel-control-prev" href="#caperCarousel" role="button" data-slide="prev">
@@ -56,5 +59,5 @@ Since 2022, I've written puzzles professionally in collaboration with a friend o
   </a>
 </div>
 <div class="caption">
-  These are snippets of puzzles and assets (including some physical ones) from various puzzle commissions we've worked on. These are from a game that was commissioned by a team from PricewaterhouseCoopers that 160 of their employees participated in.
+  These are snippets of puzzles and assets (including some physical ones) from various puzzle commissions we've worked on. These images in particular are from a game commissioned by PricewaterhouseCoopers that 160 of their employees participated in.
 </div>
